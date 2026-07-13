@@ -9,12 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=olubiyigrace&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+
 
 ## About Me
 I'm a passionate **Software Engineer** focused on building secure, scalable, and maintainable backend systems. I enjoy designing REST APIs, implementing authentication and authorization, working with databases, and solving real-world business problems through software. Open to Backend Internships, Entry-Level Software Engineering Positions and Open Source Contributions.
 
----
 
 <div align="center">
 <h2 align="left">Languages and Tools:</h2>
@@ -87,7 +86,7 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 
 </div>
 
----
+
 
 ##  Testing
 <p align="center">
@@ -96,7 +95,7 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
   <img src="https://img.shields.io/badge/Integration_Testing-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Integration Testing"/>
 </p>
 
----
+
 
 ## Connect With Me
 <div align="center">
@@ -106,7 +105,6 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 
 </div>
 
----
 
 
 <div align="center">
