@@ -68,7 +68,7 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:graceolubiyi@gmail.com)
 
 </div>
-
+---
 
 
 <div align="center">
