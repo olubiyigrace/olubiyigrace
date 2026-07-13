@@ -1,5 +1,4 @@
 # <div align="center">Hi, I'm Grace! </div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Backend+Developer;Building+Secure+REST+APIs;Designing+Scalable+Backend+Systems;Always+Learning+and+Growing)](https://git.io/typing-svg)
