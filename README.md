@@ -14,7 +14,7 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 <div align="center">
 <h2 align="left">Languages and Tools:</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a><a href="https://spring.io/" target="_blank" rel="noreferrer">
