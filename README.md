@@ -3,16 +3,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Backend+Developer;Building+Secure+REST+APIs;Designing+Scalable+Backend+Systems;Always+Learning+and+Growing)](https://git.io/typing-svg)
 
-</div>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=olubiyigrace&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
 
 ## About Me
 I'm a passionate **Software Engineer** focused on building secure, scalable, and maintainable backend systems. I enjoy designing REST APIs, implementing authentication and authorization, working with databases, and solving real-world business problems through software. Open to Backend Internships, Entry-Level Software Engineering Positions and Open Source Contributions.
-
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olubiyigrace&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 <div align="center">
 <h2 align="left">Languages and Tools:</h2>
