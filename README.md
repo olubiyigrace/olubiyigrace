@@ -17,35 +17,33 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a><a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a><a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
-  </a><a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-  </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a><a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a><a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-  </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a><a href="https://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a><a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" width="40" height="40"/>
-  </a><a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
+  <a href="https://flywaydb.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/flyway" alt="Flyway" width="40" height="40"/>
-  </a><a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/junit5" alt="JUnit 5" width="40" height="40"/>
-  </a><a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </p>
