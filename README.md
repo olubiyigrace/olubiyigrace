@@ -90,7 +90,6 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
 ---
 
 ##  Testing
-
 <p align="center">
   <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"/>
   <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito"/>
