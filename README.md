@@ -43,11 +43,12 @@ I'm a passionate **Software Engineer** focused on building secure, scalable, and
     <img src="https://cdn.simpleicons.org/flyway" alt="Flyway" width="40" height="40"/>
   </a><a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a><a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/swagger" alt="Swagger" width="40" height="40"/>
   </a><a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 </p>
-
 </div>
 
 
